@@ -28,7 +28,7 @@ The model includes a three-phase source, transformer, measurement blocks, fault 
 ## Project Model
 
 The Simulink model represents a three-phase electrical system with measurement and protection components.
-
+![Power System Simulink Model](power-system-model.png)
 ## How to Run
 
 1. Download the `.slx` file from this repository.
